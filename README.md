@@ -160,12 +160,22 @@ textforge-ai/
 │   ├── index.css
 │   └── main.jsx
 │
+├── docs/
+│   └── screenshots/
+│       ├── home_page.png
+│       ├── ai_assistant.png
+│       ├── text_analytics.png
+│       ├── dark_mode.png
+│       └── about_page.png
+│
 ├── .env.example
+├── .gitignore
 ├── README.md
 ├── package.json
-└── .gitignore
+├── package-lock.json
+├── vite.config.js
+└── index.html
 ```
-
 ---
 
 ## 📂 Component Responsibilities
