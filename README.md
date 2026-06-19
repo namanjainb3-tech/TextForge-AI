@@ -16,23 +16,23 @@ The application combines traditional text utilities with advanced AI-powered fea
 
 ### Home Page
 
-![Home Page](docs/screenshots/home_page.png)
+![Home Page](docs/screenshots/home_page.jpeg)
 
 ### AI Assistant
 
-![AI Assistant](docs/screenshots/ai_assistant.png)
+![AI Assistant](docs/screenshots/ai_assistant.jpeg)
 
 ### Text Analytics
 
-![Text Analytics](docs/screenshots/text_analytics.png)
+![Text Analytics](docs/screenshots/text_analytics.jpeg)
 
 ### Dark Mode
 
-![Dark Mode](docs/screenshots/dark_mode.png)
+![Dark Mode](docs/screenshots/dark_mode.jpeg)
 
 ### About Page
 
-![About Page](docs/screenshots/about_page.png)
+![About Page](docs/screenshots/about_page.jpeg)
 
 ---
 
